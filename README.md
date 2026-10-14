@@ -1,4 +1,6 @@
 # Food Recognition Challenge (2nd Place) - Multi-Label Classification
+<img width="1377" height="1052" alt="image" src="https://github.com/user-attachments/assets/017a89c3-9877-47bb-8d1c-95e57340917c" />
+<img width="1360" height="1043" alt="AdobeExpressPhotos_3800c946d5484b948c932ee9755d385d_CopyEdited" src="https://github.com/user-attachments/assets/73bb09b4-58ff-4a42-b5d3-0d9855dcdec7" />
 
 This repository contains the code and methodology that secured 2nd place in the Advanced Machine Learning Food Recognition Challenge . The objective was to train deep learning models to predict the presence of 498 distinct food categories in color images within a multi-label classification environment. The dataset consisted of 39,962 training images and 1,000 test images sourced from the AICrowd Food Recognition Benchmark. Submissions were evaluated based on the Micro F1 score.
 
